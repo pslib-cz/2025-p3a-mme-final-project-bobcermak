@@ -1,7 +1,7 @@
 # 🧰 ToolBox | Fusion 360
 
-Praktická a modulární **nástrojová krabička** navržená ve **Fusion 360**.  
-Model je určený primárně pro **3D tisk** a snadnou úpravu podle vlastních potřeb.
+A practical and modular **tool storage box** designed in **Fusion 360**.  
+The model is primarily intended for **3D printing** and easy customization to fit your needs.
 
 ![ToolBox Preview](/)
 
@@ -11,23 +11,23 @@ Model je určený primárně pro **3D tisk** a snadnou úpravu podle vlastních 
 
 ---
 
-## ✨ Vlastnosti
-- Navrženo ve Fusion 360
-- Připraveno pro 3D tisk
-- Čistý a jednoduchý design
-- Snadná editace rozměrů
-- Vhodné pro dílnu, pracovní stůl nebo toolbox systém
-- Navrženo pomocí [tooltrace.ai](https://www.tooltrace.ai/)
+## ✨ Features
+- Designed in Fusion 360
+- Ready for 3D printing
+- Clean and simple design
+- Easy to adjust dimensions
+- Suitable for workshops, workbenches, or toolbox systems
+- Designed using [tooltrace.ai](https://www.tooltrace.ai/)
 
 ---
 
-## 📥 Stažení modelu
+## 📥 Download the model
 
-### 🔹 Fusion 360 (zdroj)
+### 🔹 Fusion 360 (source file)
 - [`ToolBox.f3d`](exports/ToolBox.f3d)
 
-### 🔹 Exporty
-- **STEP** – doporučeno pro 3D tisk  
+### 🔹 Exports
+- **STEP** – recommended for 3D printing  
   👉 [`ToolBox.step`](exports/ToolBox.step)
 
 - **3MF**  
@@ -35,30 +35,30 @@ Model je určený primárně pro **3D tisk** a snadnou úpravu podle vlastních 
 
 ---
 
-## 🖨️ 3D tisk
-- Doporučený materiál: **PLA**
-- Výplň: `5-15 %`
-- Podpěry: **není nutné** (záleží na verzi)
+## 🖨️ 3D Printing
+- Recommended material: **PLA**
+- Infill: `5–15 %`
+- Supports: **not required** (depends on version)
 
 ---
 
 ## 🌐 Printables
-Model je dostupný také na Printables:
+The model is also available on Printables:
 
 👉 **#**
 
 ---
 
-## 🖼️ Náhledy
+## 🖼️ Previews
 ![Render](/)
 
 ---
 
-## 📄 Licence
-Tento projekt je zveřejněn pod licencí **MIT**.
+## 📄 License
+This project is released under the **MIT** license.
 
 ---
 
-## 🙌 Autor
+## 🙌 Author
 **Bob Čermák**  
-Fusion 360 · 3D tisk · CAD
+Fusion 360 · 3D Printing · CAD
