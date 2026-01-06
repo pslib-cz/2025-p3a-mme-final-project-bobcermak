@@ -24,7 +24,7 @@ The model is primarily intended for **3D printing** and easy customization to fi
 ## 📥 Download the model
 
 ### 🔹 Fusion 360 (source file)
-- [`Download ToolBox.f3d`](https://github.com/pslib-cz/2025-p3a-mme-final-project-bobcermak/blob/main/exports/ToolBox.f3d)
+- [`ToolBox.f3d`](exports/ToolBox.f3d)
 
 ### 🔹 Exports
 - **STEP** – recommended for 3D printing  
