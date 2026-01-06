@@ -31,7 +31,7 @@ The model is primarily intended for **3D printing** and easy customization to fi
   👉 [`ToolBox.step`](exports/ToolBox.step)
 
 - **3MF**  
-  👉 [`ToolBox.3mf`](exports/3mf/ToolBox.3mf)
+  👉 [`ToolBox.3mf`](exports/ToolBox.3mf)
 
 ---
 
