@@ -3,11 +3,11 @@
 A practical and modular **tool storage box** designed in **Fusion 360**.  
 The model is primarily intended for **3D printing** and easy customization to fit your needs.
 
-![ToolBox Preview](/)
+![ToolBox Preview](./images/product/4.JPG)
 
 ---
 
-[Live preview](#)
+[Live preview](https://pslib-cz.github.io/2025-p3a-mme-final-project-bobcermak/)
 
 ---
 
@@ -39,18 +39,6 @@ The model is primarily intended for **3D printing** and easy customization to fi
 - Recommended material: **PLA**
 - Infill: `5–15 %`
 - Supports: **not required** (depends on version)
-
----
-
-## 🌐 Printables
-The model is also available on Printables:
-
-👉 **#**
-
----
-
-## 🖼️ Previews
-![Render](/)
 
 ---
 
