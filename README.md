@@ -3,7 +3,7 @@
 A practical and modular **tool storage box** designed in **Fusion 360**.  
 The model is primarily intended for **3D printing** and easy customization to fit your needs.
 
-![ToolBox Preview](./images/product/4.JPG)
+![ToolBox Preview](./images/4.JPG)
 
 ---
 
